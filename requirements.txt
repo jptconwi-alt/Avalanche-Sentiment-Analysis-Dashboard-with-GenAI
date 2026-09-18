@@ -1,0 +1,14 @@
+# # python -m venv venv
+# venv\Scripts\activate
+# pip install openai python-dotenv
+
+
+
+
+
+streamlit
+pandas
+plotly
+openai
+pymupdf
+python-docx
